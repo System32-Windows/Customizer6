@@ -1,0 +1,12 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#lewy {
+    background-color: maroon;
+    height: 600px;
+}
+
+#prawy {
+    background-color: maroon;
+}
